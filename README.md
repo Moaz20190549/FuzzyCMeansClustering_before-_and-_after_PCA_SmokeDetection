@@ -1,0 +1,1 @@
+# FuzzyCMeansClustering_before-_and-_after_PCA_SmokeDetection
